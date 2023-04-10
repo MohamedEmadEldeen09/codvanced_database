@@ -3,22 +3,46 @@
     {
         "id":1,
         "title" : "what is your name ?",
-        "answers" : {
-            "web": "ahmed",
-            "mobile":"mohamed",
-            "desktop" : "sara",
-            "security" : "mostafa"
-        }
+        "answers" : [
+            {
+              "key" : "mobile",
+              "value" : "ahmed"
+            } ,
+            {
+                "key" : "desktop",
+                "value" : "mohamed"
+            } ,
+            {
+                "key" : "web",
+                "value" : "sara"
+            } ,
+            {
+                "key" : "desktop",
+                "value" : "mostafa"
+            }
+       ]
      },
      {
         "id":2,
-        "title" : "how old are you age ?",
-        "answers" : {
-            "web": "20",
-            "mobile":"30",
-            "desktop" : "18",
-            "security" : "35"
-        }
+        "title" : "what is your age ?",
+        "answers" : [
+            {
+              "key" : "web",
+              "value" : "26"
+            } ,
+            {
+                "key" : "web",
+                "value" : "48"
+            } ,
+            {
+                "key" : "desktop",
+                "value" : "20"
+            } ,
+            {
+                "key" : "mobile",
+                "value" : "30"
+            }
+       ]
      }
     ],
     "admins" : [

@@ -1,4 +1,50 @@
 {
+    "codvanced_Questions" : [
+        {
+            "id":1,
+            "title" : "Do you always care about styles and colors or you just focus on the core of the things ?",
+            "answers" : [
+                {
+                  "key" : "frontend",
+                  "value" : "yes i do care about styles and the outfit."
+                } ,
+                {
+                    "key" : "backend",
+                    "value" : "no i focus on the core and i look to the things in deep."
+                } ,
+                {
+                    "key" : "data science",
+                    "value" : "i care about both."
+                } ,
+                {
+                    "key" : "backend",
+                    "value" : "i do not care about both."
+                }
+           ]
+         },
+         {
+            "id":2,
+            "title" : "Do you feel comfortable with dealing with data specialy numbers and statistics ?",
+            "answers" : [
+                {
+                  "key" : "data science",
+                  "value" : "yes ,i am also good at math supjects and excel."
+                } ,
+                {
+                    "key" : "frontend",
+                    "value" : "not always."
+                } ,
+                {
+                    "key" : "frontend",
+                    "value" : "no."
+                } ,
+                {
+                    "key" : "backend",
+                    "value" : "yes, but i love more about creating data and extract the realationships from it."
+                }
+           ]
+         }
+    ],
     "questions" :[
     {
         "id":1,

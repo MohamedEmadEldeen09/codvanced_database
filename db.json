@@ -17,7 +17,7 @@
                     "value" : "i care about both."
                 } ,
                 {
-                    "key" : "backend",
+                    "key" : "android",
                     "value" : "i do not care about both."
                 }
            ]
@@ -35,7 +35,7 @@
                     "value" : "not always."
                 } ,
                 {
-                    "key" : "frontend",
+                    "key" : "android",
                     "value" : "no."
                 } ,
                 {

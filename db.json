@@ -2,46 +2,382 @@
     "codvanced_Questions" : [
         {
             "id":1,
-            "title" : "Do you always care about styles and colors or you just focus on the core of the things ?",
+            "title" : "Do you like sitting in front of the computer for long hours ? ",
             "answers" : [
                 {
-                  "key" : "frontend",
-                  "value" : "yes i do care about styles and the outfit."
-                } ,
-                {
                     "key" : "backend",
-                    "value" : "no i focus on the core and i look to the things in deep."
+                    "value" : "Agree"
                 } ,
                 {
-                    "key" : "data science",
-                    "value" : "i care about both."
-                } ,
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,              
                 {
-                    "key" : "android",
-                    "value" : "i do not care about both."
-                }
+                    "key" : "",
+                    "value" : "Do not know"
+                }              
            ]
          },
          {
             "id":2,
-            "title" : "Do you feel comfortable with dealing with data specialy numbers and statistics ?",
+            "title" : "Do you have the knowledge of the types of android devices ?",
             "answers" : [
                 {
-                  "key" : "data science",
-                  "value" : "yes ,i am also good at math supjects and excel."
+                    "key" : "android",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
                 } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":3,
+            "title" : "Do you like handling data, analyzing it and reaching results ?",
+            "answers" : [
+                {
+                    "key" : "data science",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":4,
+            "title" : "Do you have creativity and innovation ?",
+            "answers" : [
                 {
                     "key" : "frontend",
-                    "value" : "not always."
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
                 } ,
                 {
-                    "key" : "android",
-                    "value" : "no."
-                } ,
+                    "key" : "",
+                    "value" : "Do not know"
+                }                               
+           ]
+         },
+         {
+            "id":5,
+            "title" : "Do you have Deep and extensive technical experience ?",
+            "answers" : [
                 {
                     "key" : "backend",
-                    "value" : "yes, but i love more about creating data and extract the realationships from it."
-                }
+                    "value" : "Agree"
+                } ,
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,              
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }              
+           ]
+         },
+         {
+            "id":6,
+            "title" : "Do you have the knowledge in the technical field in general ?",
+            "answers" : [
+                {
+                    "key" : "android",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":7,
+            "title" : "Do you have Communication, Analytical, Planing and Problem-Solving Skills ?",
+            "answers" : [
+                {
+                    "key" : "data science",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":8,
+            "title" : "Do you have precision and attention to details ?",
+            "answers" : [
+                {
+                    "key" : "frontend",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }                               
+           ]
+         },
+         {
+            "id":9,
+            "title" : "Do you have Time management Skills ?",
+            "answers" : [
+                {
+                    "key" : "backend",
+                    "value" : "Agree"
+                } ,
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,              
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }              
+           ]
+         },
+         {
+            "id":10,
+            "title" : "Are you patient and able to handle the pressure of work ?",
+            "answers" : [
+                {
+                    "key" : "android",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":11,
+            "title" : "Do you have a good level in mathematic and quantative techniques ?",
+            "answers" : [
+                {
+                    "key" : "data science",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":12,
+            "title" : "Do you like to create a user interface ?",
+            "answers" : [
+                {
+                    "key" : "frontend",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }                               
+           ]
+         },        
+         {
+            "id":13,
+            "title" : "Do you have problem Solving skills ?",
+            "answers" : [
+                {
+                    "key" : "backend",
+                    "value" : "Agree"
+                } ,
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,              
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }              
+           ]
+         },
+         {
+            "id":14,
+            "title" : "Do you like to create an application on mobile phones ?",
+            "answers" : [
+                {
+                    "key" : "android",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":15,
+            "title" : "Do you have critical thinking and logical thinking skills ?",
+            "answers" : [
+                {
+                    "key" : "data science",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":16,
+            "title" : "Do you have craftsmanship in selecting colors ?",
+            "answers" : [
+                {
+                    "key" : "frontend",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }                               
+           ]
+         },       
+         {
+            "id":17,
+            "title" : "Do you have communication skills ?",
+            "answers" : [
+                {
+                    "key" : "backend",
+                    "value" : "Agree"
+                } ,
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,              
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }              
+           ]
+         },
+         {
+            "id":18,
+            "title" : "Do you love art, color, design and drawing ?",
+            "answers" : [
+                {
+                    "key" : "android",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":19,
+            "title" : "Can you store and learn lot of new information ?",
+            "answers" : [
+                {
+                    "key" : "data science",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                } 
+                
+                
+           ]
+         },
+         {
+            "id":20,
+            "title" : "Do you have craftsmanship in selecting colors ?",
+            "answers" : [
+                {
+                    "key" : "frontend",
+                    "value" : "Agree"
+                },
+                {
+                  "key" : "",
+                  "value" : "Disagree"
+                } ,
+                {
+                    "key" : "",
+                    "value" : "Do not know"
+                }                               
            ]
          }
     ],
